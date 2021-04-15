@@ -8,12 +8,6 @@
 >> * Listar Contas
 >> * Inserir Nova Conta
 
-> ***Os menus estão na pasta View***
-> 
-> ***Os métodos estão na pasta Controller***
-> 
-> ***Pasta Model não existe, porque não se está usando um banco de dados***
-
 ### Ambiente
 
 Para funcionar localmente, precisa ter instalado:
@@ -32,4 +26,10 @@ dotnet build
 dotnet run
 ```
 
+### Aviso
 
+> ***Os menus estão na pasta View***
+> 
+> ***Os métodos estão na pasta Controller***
+> 
+> ***Pasta Model não existe, porque não se está usando um banco de dados***
