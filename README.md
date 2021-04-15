@@ -1,12 +1,16 @@
 # DIO Bank 
 
-> No presente projeto são usados os métodos:
+> ### Ações do Banco:
 >
 >> * Sacar
 >> * Tranferir
 >> * Depositar
 >> * Listar Contas
 >> * Inserir Nova Conta
+
+> ***Os menus estão na pasta View***
+> ***Os métodos estão na pasta Controller***
+> ***O motivo de não haver uma pasta Model ***
 
 ### Ambiente
 
