@@ -31,3 +31,7 @@ dotnet run
 1. ***Os menus estão na pasta View***
 2. ***Os métodos estão na pasta Controller***
 3. ***Pasta Model não existe, porque não se está usando um banco de dados***
+
+### Autor
+
+* **José Sandonas** - *Developer Full Stack* - [git - Josandonas].(https://github.com/Josandonas)
