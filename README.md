@@ -34,4 +34,4 @@ dotnet run
 
 ### Autor
 
-* **José Sandonas** - *Developer Full Stack* - [git - Josandonas].(https://github.com/Josandonas)
+* **José Sandonas** - *Developer Full Stack* - [git - josandonas](https://github.com/Josandonas)
