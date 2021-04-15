@@ -26,10 +26,10 @@ dotnet build
 dotnet run
 ```
 
-### Aviso
+### Avisos
 
-> ***Os menus estão na pasta View***
+> 1. ***Os menus estão na pasta View***
 > 
-> ***Os métodos estão na pasta Controller***
+> 2. ***Os métodos estão na pasta Controller***
 > 
-> ***Pasta Model não existe, porque não se está usando um banco de dados***
+> 3. ***Pasta Model não existe, porque não se está usando um banco de dados***
