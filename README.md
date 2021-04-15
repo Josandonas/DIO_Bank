@@ -1,7 +1,20 @@
-## DIO Bank 
-#### Requisitos para executar:
->> Versão .NET 3.2
+# DIO Bank 
+### Ambiente
 
->> Versão VisualCode 1.55.2
+Para funcionar localmente, precisa ter instalado:
+* .NET 3.2
+* VisualCode 1.55.2
+
+### Build
+
+```
+dotnet build
+```
+
+### Execução
+
+```
+dotnet run
+```
 
 
