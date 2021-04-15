@@ -9,8 +9,10 @@
 >> * Inserir Nova Conta
 
 > ***Os menus estão na pasta View***
+> 
 > ***Os métodos estão na pasta Controller***
-> ***O motivo de não haver uma pasta Model ***
+> 
+> ***Pasta Model não existe, porque não se está usando um banco de dados***
 
 ### Ambiente
 
